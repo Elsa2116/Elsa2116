@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Elsa Alemayehu
 
-💻 **Full Stack Developer** | 🎓 **Software Engineering Student** | 🌍 **Based in Ethiopia**
+💻 **Full Stack Developer** | 🎓 **Software Engineering Student** 
 
 Welcome to my GitHub! I am passionate about building modern, scalable, and user-centric web applications. I enjoy solving real-world problems through code and continuously learning advanced technologies.
 
@@ -64,7 +64,6 @@ Outside of coding, I’m an avid **football ⚽ player**—teamwork, strategy, a
 ##  Connect With Me
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Elsa2116)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elsa-alemayehu-9420aa339/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](elsa-alemayehu-portfolio.vercel.app)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://elsa-alemayehu-portfolio.vercel.app)
 
  I am always open to **collaborations**, innovative projects, and connecting with other developers and tech enthusiasts.  
