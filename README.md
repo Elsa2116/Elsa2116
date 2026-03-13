@@ -5,16 +5,16 @@
 Welcome to my GitHub! I am passionate about building modern, scalable, and user-centric web applications. I enjoy solving real-world problems through code and continuously learning advanced technologies.
 
 
-## 🚀 About Me
+##  About Me
 
 I love **building modern, scalable, and user-friendly web applications** that solve real-world problems. I thrive on **tackling challenging coding projects**, learning cutting-edge technologies, and turning ideas into functional digital experiences.  
 
 Outside of coding, I’m an avid **football ⚽ player**—teamwork, strategy, and persistence on the field inspire how I approach my projects. I also enjoy **exploring tech trends, collaborating with creative minds**, and continuously growing my skills.  
 
-### 💡 What Drives Me
+###  What Drives Me
 > “I write code not just to build, but to create solutions that matter.”  
 
-### 🌱 Currently Learning
+###  Currently Learning
 - **Advanced React & Next.js** – building high-performance frontends  
 - **Backend Development** – Node.js, Django, PostgreSQL, MongoDB  
 - **Full-stack integration & scalable architecture**  
@@ -24,6 +24,7 @@ Outside of coding, I’m an avid **football ⚽ player**—teamwork, strategy, a
 - Enjoy **team collaboration** and **brainstorming sessions**  
 - Hobby: **Football ⚽, tech experiments, and reading**  
 
+---
 
 ## 🛠 Tech Stack
 
@@ -51,7 +52,7 @@ Outside of coding, I’m an avid **football ⚽ player**—teamwork, strategy, a
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
-## 🌟 Key Projects
+##  Key Projects
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | **Skill Up Web App** | Platform to post skills, find jobs, and connect with mentors | React, Tailwind, Firebase |
@@ -60,15 +61,10 @@ Outside of coding, I’m an avid **football ⚽ player**—teamwork, strategy, a
 
 
 
-## 📊 GitHub Stats
-![Elsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elsa2116&show_icons=true&theme=radical)
-
-
-## 📫 Connect With Me
+##  Connect With Me
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Elsa2116)  
-[![LinkedIn](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BJ61VqrdBTxqofUHyNbrwag%3D%3D) 
-[![Portfolio](elsa-alemayehu-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elsa-alemayehu-9420aa339/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](elsa-alemayehu-portfolio.vercel.app)
 
 
-
-💡 I am always open to **collaborations**, innovative projects, and connecting with other developers and tech enthusiasts.  
+ I am always open to **collaborations**, innovative projects, and connecting with other developers and tech enthusiasts.  
